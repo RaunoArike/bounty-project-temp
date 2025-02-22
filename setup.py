@@ -11,6 +11,7 @@ setup(
     author='Rauno Arike',
     author_email='rauno.arike@gmail.com',
     description='Steering the chain of thought of reasoning LLMs',
+    url='https://github.com/RaunoArike/steering_cot',
     license='MIT',
     classifiers=[
         'License :: OSI Approved :: MIT License',
